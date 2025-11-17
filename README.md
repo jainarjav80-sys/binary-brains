@@ -1,4 +1,4 @@
-AI Study Assistant
+YourReader
 
 An intelligent study assistant that helps students learn better using AI-powered tools.
 This project contains:
