@@ -87,6 +87,7 @@ POST /chat/ask
 
 
 🧪 Troubleshooting
+
 🚫 Quiz Not Generating?
 Ensure flashcards exist.Upload PDF → Generate Flashcards → Generate Quiz.
 
@@ -97,9 +98,9 @@ Ensure flashcards exist.Upload PDF → Generate Flashcards → Generate Quiz.
 First PDF processing may take 5–10 sec due to model loading.
 
 🛠️ Future Improvements
+
 User authentication
 Dark/light theme switch
 Save user analytics
 Export flashcards/quiz as PDF
-
 Multi-file note supportFor major changes, please open an issue first.
